@@ -1,0 +1,298 @@
+00:28.966
+100%
+INPull-upINPull-downINPull-downINPull-upMTDIMTCKMTMSMTDOINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingINFloatingSPI1HDSPI1WPSPI1CS0UART0TXUART0RXSPI1MOSISPI1MISOSPI1CLK
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1156
+load:0x40078000,len:11456
+ho 0 tail 12 room 4
+load:0x40080400,len:2972
+entry 0x400805dc
+==================================================
+  INDUCTION DRIVER FIRMWARE INITIALIZED           
+  Monitoring Tank Current & Susceptor Impedance   
+==================================================
+Step: 000 | Standby Load: 0.00A | Awaiting Stick Insertion...
+Step: 001 | Standby Load: 0.02A | Awaiting Stick Insertion...
+Step: 002 | Standby Load: 0.02A | Awaiting Stick Insertion...
+Step: 003 | Standby Load: 0.00A | Awaiting Stick Insertion...
+Step: 004 | Standby Load: 0.01A | Awaiting Stick Insertion...
+Step: 005 | Standby Load: 0.02A | Awaiting Stick Insertion...
+Step: 006 | Standby Load: 0.02A | Awaiting Stick Insertion...
+Step: 007 | Standby Load: 0.01A | Awaiting Stick Insertion...
+Step: 008 | Standby Load: 0.01A | Awaiting Stick Insertion...
+Step: 009 | Standby Load: 0.03A | Awaiting Stick Insertion...
+Step: 010 | Standby Load: 0.03A | Awaiting Stick Insertion...
+Step: 011 | Standby Load: 0.01A | Awaiting Stick Insertion...
+Step: 012 | Standby Load: 0.01A | Awaiting Stick Insertion...
+Step: 013 | Standby Load: 0.04A | Awaiting Stick Insertion...
+Step: 014 | Standby Load: 0.05A | Awaiting Stick Insertion...
+Step: 015 | Standby Load: 0.03A | Awaiting Stick Insertion...
+Step: 016 | Standby Load: 0.02A | Awaiting Stick Insertion...
+
+[AUTO-START INTERRUPT] Biochar/Magnetite susceptor insertion detected!
+Step: 017 | RMS Current: 1.12A | Inferred Temp: 284.4 °C | PWM Output: 197/255
+Step: 018 | RMS Current: 1.06A | Inferred Temp: 287.9 °C | PWM Output: 206/255
+Step: 019 | RMS Current: 1.00A | Inferred Temp: 291.4 °C | PWM Output: 221/255
+Step: 020 | RMS Current: 0.95A | Inferred Temp: 294.8 °C | PWM Output: 234/255
+Step: 021 | RMS Current: 0.89A | Inferred Temp: 298.3 °C | PWM Output: 246/255
+Step: 022 | RMS Current: 0.82A | Inferred Temp: 302.3 °C | PWM Output: 255/255
+Step: 023 | RMS Current: 0.73A | Inferred Temp: 307.5 °C | PWM Output: 255/255
+Step: 024 | RMS Current: 1.61A | Inferred Temp: 256.0 °C | PWM Output: 255/255
+Step: 025 | RMS Current: 1.57A | Inferred Temp: 258.2 °C | PWM Output: 255/255
+Step: 026 | RMS Current: 1.54A | Inferred Temp: 260.1 °C | PWM Output: 255/255
+Step: 027 | RMS Current: 1.51A | Inferred Temp: 262.0 °C | PWM Output: 255/255
+Step: 028 | RMS Current: 1.48A | Inferred Temp: 263.9 °C | PWM Output: 255/255
+Step: 029 | RMS Current: 1.44A | Inferred Temp: 265.8 °C | PWM Output: 255/255
+Step: 030 | RMS Current: 1.38A | Inferred Temp: 269.2 °C | PWM Output: 255/255
+Step: 031 | RMS Current: 1.32A | Inferred Temp: 273.2 °C | PWM Output: 255/255
+Step: 032 | RMS Current: 1.25A | Inferred Temp: 277.1 °C | PWM Output: 255/255
+Step: 033 | RMS Current: 1.18A | Inferred Temp: 281.3 °C | PWM Output: 255/255
+Step: 034 | RMS Current: 1.12A | Inferred Temp: 285.0 °C | PWM Output: 255/255
+Step: 035 | RMS Current: 1.05A | Inferred Temp: 288.5 °C | PWM Output: 255/255
+Step: 036 | RMS Current: 1.00A | Inferred Temp: 291.9 °C | PWM Output: 255/255
+Step: 037 | RMS Current: 0.94A | Inferred Temp: 295.2 °C | PWM Output: 255/255
+Step: 038 | RMS Current: 0.88A | Inferred Temp: 298.8 °C | PWM Output: 255/255
+Step: 039 | RMS Current: 0.81A | Inferred Temp: 302.9 °C | PWM Output: 255/255
+Step: 040 | RMS Current: 0.71A | Inferred Temp: 308.5 °C | PWM Output: 255/255
+Step: 041 | RMS Current: 1.60A | Inferred Temp: 256.6 °C | PWM Output: 255/255
+Step: 042 | RMS Current: 1.57A | Inferred Temp: 258.5 °C | PWM Output: 255/255
+Step: 043 | RMS Current: 1.54A | Inferred Temp: 260.4 °C | PWM Output: 255/255
+Step: 044 | RMS Current: 1.50A | Inferred Temp: 262.3 °C | PWM Output: 255/255
+Step: 045 | RMS Current: 1.47A | Inferred Temp: 264.2 °C | PWM Output: 255/255
+Step: 046 | RMS Current: 1.44A | Inferred Temp: 266.1 °C | PWM Output: 255/255
+Step: 047 | RMS Current: 1.38A | Inferred Temp: 269.8 °C | PWM Output: 255/255
+Step: 048 | RMS Current: 1.31A | Inferred Temp: 273.8 °C | PWM Output: 255/255
+Step: 049 | RMS Current: 1.24A | Inferred Temp: 277.6 °C | PWM Output: 255/255
+Step: 050 | RMS Current: 1.17A | Inferred Temp: 281.8 °C | PWM Output: 255/255
+Step: 051 | RMS Current: 1.11A | Inferred Temp: 285.4 °C | PWM Output: 255/255
+Step: 052 | RMS Current: 1.05A | Inferred Temp: 289.0 °C | PWM Output: 255/255
+Step: 053 | RMS Current: 0.99A | Inferred Temp: 292.4 °C | PWM Output: 255/255
+Step: 054 | RMS Current: 0.93A | Inferred Temp: 295.8 °C | PWM Output: 255/255
+Step: 055 | RMS Current: 0.87A | Inferred Temp: 299.4 °C | PWM Output: 255/255
+Step: 056 | RMS Current: 0.80A | Inferred Temp: 303.6 °C | PWM Output: 255/255
+Step: 057 | RMS Current: 0.69A | Inferred Temp: 309.8 °C | PWM Output: 255/255
+Step: 058 | RMS Current: 1.60A | Inferred Temp: 256.8 °C | PWM Output: 255/255
+Step: 059 | RMS Current: 1.56A | Inferred Temp: 258.8 °C | PWM Output: 255/255
+Step: 060 | RMS Current: 1.53A | Inferred Temp: 260.7 °C | PWM Output: 255/255
+Step: 061 | RMS Current: 1.50A | Inferred Temp: 262.6 °C | PWM Output: 255/255
+Step: 062 | RMS Current: 1.47A | Inferred Temp: 264.4 °C | PWM Output: 255/255
+Step: 063 | RMS Current: 1.43A | Inferred Temp: 266.5 °C | PWM Output: 255/255
+Step: 064 | RMS Current: 1.37A | Inferred Temp: 270.4 °C | PWM Output: 255/255
+Step: 065 | RMS Current: 1.30A | Inferred Temp: 274.3 °C | PWM Output: 255/255
+Step: 066 | RMS Current: 1.22A | Inferred Temp: 278.7 °C | PWM Output: 255/255
+Step: 067 | RMS Current: 1.16A | Inferred Temp: 282.4 °C | PWM Output: 255/255
+Step: 068 | RMS Current: 1.10A | Inferred Temp: 285.9 °C | PWM Output: 255/255
+Step: 069 | RMS Current: 1.04A | Inferred Temp: 289.5 °C | PWM Output: 255/255
+Step: 070 | RMS Current: 0.98A | Inferred Temp: 292.9 °C | PWM Output: 255/255
+Step: 071 | RMS Current: 0.92A | Inferred Temp: 296.2 °C | PWM Output: 255/255
+Step: 072 | RMS Current: 0.86A | Inferred Temp: 299.9 °C | PWM Output: 255/255
+Step: 073 | RMS Current: 0.78A | Inferred Temp: 304.3 °C | PWM Output: 255/255
+Step: 074 | RMS Current: 0.67A | Inferred Temp: 311.1 °C | PWM Output: 255/255
+Step: 075 | RMS Current: 1.59A | Inferred Temp: 257.1 °C | PWM Output: 255/255
+Step: 076 | RMS Current: 1.56A | Inferred Temp: 259.1 °C | PWM Output: 255/255
+Step: 077 | RMS Current: 1.53A | Inferred Temp: 261.0 °C | PWM Output: 255/255
+Step: 078 | RMS Current: 1.49A | Inferred Temp: 262.9 °C | PWM Output: 255/255
+Step: 079 | RMS Current: 1.46A | Inferred Temp: 264.7 °C | PWM Output: 255/255
+Step: 080 | RMS Current: 1.42A | Inferred Temp: 266.9 °C | PWM Output: 255/255
+Step: 081 | RMS Current: 1.36A | Inferred Temp: 271.0 °C | PWM Output: 255/255
+Step: 082 | RMS Current: 1.29A | Inferred Temp: 274.9 °C | PWM Output: 255/255
+Step: 083 | RMS Current: 1.21A | Inferred Temp: 279.2 °C | PWM Output: 255/255
+Step: 084 | RMS Current: 1.15A | Inferred Temp: 282.9 °C | PWM Output: 255/255
+Step: 085 | RMS Current: 1.09A | Inferred Temp: 286.5 °C | PWM Output: 255/255
+Step: 086 | RMS Current: 1.03A | Inferred Temp: 290.0 °C | PWM Output: 255/255
+Step: 087 | RMS Current: 0.97A | Inferred Temp: 293.4 °C | PWM Output: 255/255
+Step: 088 | RMS Current: 0.91A | Inferred Temp: 296.7 °C | PWM Output: 255/255
+Step: 089 | RMS Current: 0.85A | Inferred Temp: 300.5 °C | PWM Output: 255/255
+Step: 090 | RMS Current: 0.77A | Inferred Temp: 305.1 °C | PWM Output: 255/255
+Step: 091 | RMS Current: 0.63A | Inferred Temp: 313.2 °C | PWM Output: 255/255
+Step: 092 | RMS Current: 1.59A | Inferred Temp: 257.4 °C | PWM Output: 255/255
+Step: 093 | RMS Current: 1.55A | Inferred Temp: 259.4 °C | PWM Output: 255/255
+Step: 094 | RMS Current: 1.52A | Inferred Temp: 261.2 °C | PWM Output: 255/255
+Step: 095 | RMS Current: 1.49A | Inferred Temp: 263.1 °C | PWM Output: 255/255
+Step: 096 | RMS Current: 1.46A | Inferred Temp: 265.0 °C | PWM Output: 255/255
+Step: 097 | RMS Current: 1.41A | Inferred Temp: 267.5 °C | PWM Output: 255/255
+Step: 098 | RMS Current: 1.35A | Inferred Temp: 271.5 °C | PWM Output: 255/255
+Step: 099 | RMS Current: 1.27A | Inferred Temp: 276.0 °C | PWM Output: 255/255
+Step: 000 | RMS Current: 0.00A | Inferred Temp: 350.0 °C | PWM Output: 255/255
+Step: 001 | RMS Current: 0.00A | Inferred Temp: 349.7 °C | PWM Output: 255/255
+Step: 002 | RMS Current: 0.00A | Inferred Temp: 349.7 °C | PWM Output: 255/255
+Step: 003 | RMS Current: 0.00A | Inferred Temp: 349.9 °C | PWM Output: 255/255
+Step: 004 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 005 | RMS Current: 0.01A | Inferred Temp: 349.6 °C | PWM Output: 255/255
+Step: 006 | RMS Current: 0.01A | Inferred Temp: 349.6 °C | PWM Output: 255/255
+Step: 007 | RMS Current: 0.00A | Inferred Temp: 349.9 °C | PWM Output: 255/255
+Step: 008 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 009 | RMS Current: 0.01A | Inferred Temp: 349.6 °C | PWM Output: 255/255
+Step: 010 | RMS Current: 0.01A | Inferred Temp: 349.5 °C | PWM Output: 255/255
+Step: 011 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 012 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 013 | RMS Current: 0.01A | Inferred Temp: 349.4 °C | PWM Output: 255/255
+Step: 014 | RMS Current: 1.33A | Inferred Temp: 272.6 °C | PWM Output: 255/255
+Step: 015 | RMS Current: 1.26A | Inferred Temp: 276.5 °C | PWM Output: 255/255
+Step: 016 | RMS Current: 1.20A | Inferred Temp: 280.3 °C | PWM Output: 255/255
+Step: 017 | RMS Current: 1.12A | Inferred Temp: 284.4 °C | PWM Output: 255/255
+Step: 018 | RMS Current: 1.06A | Inferred Temp: 287.9 °C | PWM Output: 255/255
+Step: 019 | RMS Current: 1.00A | Inferred Temp: 291.4 °C | PWM Output: 255/255
+Step: 020 | RMS Current: 0.95A | Inferred Temp: 294.8 °C | PWM Output: 255/255
+Step: 021 | RMS Current: 0.89A | Inferred Temp: 298.3 °C | PWM Output: 255/255
+Step: 022 | RMS Current: 0.82A | Inferred Temp: 302.3 °C | PWM Output: 255/255
+Step: 023 | RMS Current: 0.73A | Inferred Temp: 307.5 °C | PWM Output: 255/255
+Step: 024 | RMS Current: 1.61A | Inferred Temp: 256.0 °C | PWM Output: 255/255
+Step: 025 | RMS Current: 1.57A | Inferred Temp: 258.2 °C | PWM Output: 255/255
+Step: 026 | RMS Current: 1.54A | Inferred Temp: 260.1 °C | PWM Output: 255/255
+Step: 027 | RMS Current: 1.51A | Inferred Temp: 262.0 °C | PWM Output: 255/255
+Step: 028 | RMS Current: 1.48A | Inferred Temp: 263.9 °C | PWM Output: 255/255
+Step: 029 | RMS Current: 1.44A | Inferred Temp: 265.8 °C | PWM Output: 255/255
+Step: 030 | RMS Current: 1.38A | Inferred Temp: 269.2 °C | PWM Output: 255/255
+Step: 031 | RMS Current: 1.32A | Inferred Temp: 273.2 °C | PWM Output: 255/255
+Step: 032 | RMS Current: 1.25A | Inferred Temp: 277.1 °C | PWM Output: 255/255
+Step: 033 | RMS Current: 1.18A | Inferred Temp: 281.3 °C | PWM Output: 255/255
+Step: 034 | RMS Current: 1.12A | Inferred Temp: 285.0 °C | PWM Output: 255/255
+Step: 035 | RMS Current: 1.05A | Inferred Temp: 288.5 °C | PWM Output: 255/255
+Step: 036 | RMS Current: 1.00A | Inferred Temp: 291.9 °C | PWM Output: 255/255
+Step: 037 | RMS Current: 0.94A | Inferred Temp: 295.2 °C | PWM Output: 255/255
+Step: 038 | RMS Current: 0.88A | Inferred Temp: 298.8 °C | PWM Output: 255/255
+Step: 039 | RMS Current: 0.81A | Inferred Temp: 302.9 °C | PWM Output: 255/255
+Step: 040 | RMS Current: 0.71A | Inferred Temp: 308.5 °C | PWM Output: 255/255
+Step: 041 | RMS Current: 1.60A | Inferred Temp: 256.6 °C | PWM Output: 255/255
+Step: 042 | RMS Current: 1.57A | Inferred Temp: 258.5 °C | PWM Output: 255/255
+Step: 043 | RMS Current: 1.54A | Inferred Temp: 260.4 °C | PWM Output: 255/255
+Step: 044 | RMS Current: 1.50A | Inferred Temp: 262.3 °C | PWM Output: 255/255
+Step: 045 | RMS Current: 1.47A | Inferred Temp: 264.2 °C | PWM Output: 255/255
+Step: 046 | RMS Current: 1.44A | Inferred Temp: 266.1 °C | PWM Output: 255/255
+Step: 047 | RMS Current: 1.38A | Inferred Temp: 269.8 °C | PWM Output: 255/255
+Step: 048 | RMS Current: 1.31A | Inferred Temp: 273.8 °C | PWM Output: 255/255
+Step: 049 | RMS Current: 1.24A | Inferred Temp: 277.6 °C | PWM Output: 255/255
+Step: 050 | RMS Current: 1.17A | Inferred Temp: 281.8 °C | PWM Output: 255/255
+Step: 051 | RMS Current: 1.11A | Inferred Temp: 285.4 °C | PWM Output: 255/255
+Step: 052 | RMS Current: 1.05A | Inferred Temp: 289.0 °C | PWM Output: 255/255
+Step: 053 | RMS Current: 0.99A | Inferred Temp: 292.4 °C | PWM Output: 255/255
+Step: 054 | RMS Current: 0.93A | Inferred Temp: 295.8 °C | PWM Output: 255/255
+Step: 055 | RMS Current: 0.87A | Inferred Temp: 299.4 °C | PWM Output: 255/255
+Step: 056 | RMS Current: 0.80A | Inferred Temp: 303.6 °C | PWM Output: 255/255
+Step: 057 | RMS Current: 0.69A | Inferred Temp: 309.8 °C | PWM Output: 255/255
+Step: 058 | RMS Current: 1.60A | Inferred Temp: 256.8 °C | PWM Output: 255/255
+Step: 059 | RMS Current: 1.56A | Inferred Temp: 258.8 °C | PWM Output: 255/255
+Step: 060 | RMS Current: 1.53A | Inferred Temp: 260.7 °C | PWM Output: 255/255
+Step: 061 | RMS Current: 1.50A | Inferred Temp: 262.6 °C | PWM Output: 255/255
+Step: 062 | RMS Current: 1.47A | Inferred Temp: 264.4 °C | PWM Output: 255/255
+Step: 063 | RMS Current: 1.43A | Inferred Temp: 266.5 °C | PWM Output: 255/255
+Step: 064 | RMS Current: 1.37A | Inferred Temp: 270.4 °C | PWM Output: 255/255
+Step: 065 | RMS Current: 1.30A | Inferred Temp: 274.3 °C | PWM Output: 255/255
+Step: 066 | RMS Current: 1.22A | Inferred Temp: 278.7 °C | PWM Output: 255/255
+Step: 067 | RMS Current: 1.16A | Inferred Temp: 282.4 °C | PWM Output: 255/255
+Step: 068 | RMS Current: 1.10A | Inferred Temp: 285.9 °C | PWM Output: 255/255
+Step: 069 | RMS Current: 1.04A | Inferred Temp: 289.5 °C | PWM Output: 255/255
+Step: 070 | RMS Current: 0.98A | Inferred Temp: 292.9 °C | PWM Output: 255/255
+Step: 071 | RMS Current: 0.92A | Inferred Temp: 296.2 °C | PWM Output: 255/255
+Step: 072 | RMS Current: 0.86A | Inferred Temp: 299.9 °C | PWM Output: 255/255
+Step: 073 | RMS Current: 0.78A | Inferred Temp: 304.3 °C | PWM Output: 255/255
+Step: 074 | RMS Current: 0.67A | Inferred Temp: 311.1 °C | PWM Output: 255/255
+Step: 075 | RMS Current: 1.59A | Inferred Temp: 257.1 °C | PWM Output: 255/255
+Step: 076 | RMS Current: 1.56A | Inferred Temp: 259.1 °C | PWM Output: 255/255
+Step: 077 | RMS Current: 1.53A | Inferred Temp: 261.0 °C | PWM Output: 255/255
+Step: 078 | RMS Current: 1.49A | Inferred Temp: 262.9 °C | PWM Output: 255/255
+Step: 079 | RMS Current: 1.46A | Inferred Temp: 264.7 °C | PWM Output: 255/255
+Step: 080 | RMS Current: 1.42A | Inferred Temp: 266.9 °C | PWM Output: 255/255
+Step: 081 | RMS Current: 1.36A | Inferred Temp: 271.0 °C | PWM Output: 255/255
+Step: 082 | RMS Current: 1.29A | Inferred Temp: 274.9 °C | PWM Output: 255/255
+Step: 083 | RMS Current: 1.21A | Inferred Temp: 279.2 °C | PWM Output: 255/255
+Step: 084 | RMS Current: 1.15A | Inferred Temp: 282.9 °C | PWM Output: 255/255
+Step: 085 | RMS Current: 1.09A | Inferred Temp: 286.5 °C | PWM Output: 255/255
+Step: 086 | RMS Current: 1.03A | Inferred Temp: 290.0 °C | PWM Output: 255/255
+Step: 087 | RMS Current: 0.97A | Inferred Temp: 293.4 °C | PWM Output: 255/255
+Step: 088 | RMS Current: 0.91A | Inferred Temp: 296.7 °C | PWM Output: 255/255
+Step: 089 | RMS Current: 0.85A | Inferred Temp: 300.5 °C | PWM Output: 255/255
+Step: 090 | RMS Current: 0.77A | Inferred Temp: 305.1 °C | PWM Output: 255/255
+Step: 091 | RMS Current: 0.63A | Inferred Temp: 313.2 °C | PWM Output: 255/255
+Step: 092 | RMS Current: 1.59A | Inferred Temp: 257.4 °C | PWM Output: 255/255
+Step: 093 | RMS Current: 1.55A | Inferred Temp: 259.4 °C | PWM Output: 255/255
+Step: 094 | RMS Current: 1.52A | Inferred Temp: 261.2 °C | PWM Output: 255/255
+Step: 095 | RMS Current: 1.49A | Inferred Temp: 263.1 °C | PWM Output: 255/255
+Step: 096 | RMS Current: 1.46A | Inferred Temp: 265.0 °C | PWM Output: 255/255
+Step: 097 | RMS Current: 1.41A | Inferred Temp: 267.5 °C | PWM Output: 255/255
+Step: 098 | RMS Current: 1.35A | Inferred Temp: 271.5 °C | PWM Output: 255/255
+Step: 099 | RMS Current: 1.27A | Inferred Temp: 276.0 °C | PWM Output: 255/255
+Step: 000 | RMS Current: 0.00A | Inferred Temp: 350.0 °C | PWM Output: 255/255
+Step: 001 | RMS Current: 0.00A | Inferred Temp: 349.7 °C | PWM Output: 255/255
+Step: 002 | RMS Current: 0.00A | Inferred Temp: 349.7 °C | PWM Output: 255/255
+Step: 003 | RMS Current: 0.00A | Inferred Temp: 349.9 °C | PWM Output: 255/255
+Step: 004 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 005 | RMS Current: 0.01A | Inferred Temp: 349.6 °C | PWM Output: 255/255
+Step: 006 | RMS Current: 0.01A | Inferred Temp: 349.6 °C | PWM Output: 255/255
+Step: 007 | RMS Current: 0.00A | Inferred Temp: 349.9 °C | PWM Output: 255/255
+Step: 008 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 009 | RMS Current: 0.01A | Inferred Temp: 349.6 °C | PWM Output: 255/255
+Step: 010 | RMS Current: 0.01A | Inferred Temp: 349.5 °C | PWM Output: 255/255
+Step: 011 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 012 | RMS Current: 0.00A | Inferred Temp: 349.8 °C | PWM Output: 255/255
+Step: 013 | RMS Current: 0.01A | Inferred Temp: 349.4 °C | PWM Output: 255/255
+Step: 014 | RMS Current: 1.33A | Inferred Temp: 272.6 °C | PWM Output: 255/255
+Step: 015 | RMS Current: 1.26A | Inferred Temp: 276.5 °C | PWM Output: 255/255
+Step: 016 | RMS Current: 1.20A | Inferred Temp: 280.3 °C | PWM Output: 255/255
+Step: 017 | RMS Current: 1.12A | Inferred Temp: 284.4 °C | PWM Output: 255/255
+Step: 018 | RMS Current: 1.06A | Inferred Temp: 287.9 °C | PWM Output: 255/255
+Step: 019 | RMS Current: 1.00A | Inferred Temp: 291.4 °C | PWM Output: 255/255
+Step: 020 | RMS Current: 0.95A | Inferred Temp: 294.8 °C | PWM Output: 255/255
+Step: 021 | RMS Current: 0.89A | Inferred Temp: 298.3 °C | PWM Output: 255/255
+Step: 022 | RMS Current: 0.82A | Inferred Temp: 302.3 °C | PWM Output: 255/255
+Step: 023 | RMS Current: 0.73A | Inferred Temp: 307.5 °C | PWM Output: 255/255
+Step: 024 | RMS Current: 1.61A | Inferred Temp: 256.0 °C | PWM Output: 255/255
+Step: 025 | RMS Current: 1.57A | Inferred Temp: 258.2 °C | PWM Output: 255/255
+Step: 026 | RMS Current: 1.54A | Inferred Temp: 260.1 °C | PWM Output: 255/255
+Step: 027 | RMS Current: 1.51A | Inferred Temp: 262.0 °C | PWM Output: 255/255
+Step: 028 | RMS Current: 1.48A | Inferred Temp: 263.9 °C | PWM Output: 255/255
+Step: 029 | RMS Current: 1.44A | Inferred Temp: 265.8 °C | PWM Output: 255/255
+Step: 030 | RMS Current: 1.38A | Inferred Temp: 269.2 °C | PWM Output: 255/255
+Step: 031 | RMS Current: 1.32A | Inferred Temp: 273.2 °C | PWM Output: 255/255
+Step: 032 | RMS Current: 1.25A | Inferred Temp: 277.1 °C | PWM Output: 255/255
+Step: 033 | RMS Current: 1.18A | Inferred Temp: 281.3 °C | PWM Output: 255/255
+Step: 034 | RMS Current: 1.12A | Inferred Temp: 285.0 °C | PWM Output: 255/255
+Step: 035 | RMS Current: 1.05A | Inferred Temp: 288.5 °C | PWM Output: 255/255
+Step: 036 | RMS Current: 1.00A | Inferred Temp: 291.9 °C | PWM Output: 255/255
+Step: 037 | RMS Current: 0.94A | Inferred Temp: 295.2 °C | PWM Output: 255/255
+Step: 038 | RMS Current: 0.88A | Inferred Temp: 298.8 °C | PWM Output: 255/255
+Step: 039 | RMS Current: 0.81A | Inferred Temp: 302.9 °C | PWM Output: 255/255
+Step: 040 | RMS Current: 0.71A | Inferred Temp: 308.5 °C | PWM Output: 255/255
+Step: 041 | RMS Current: 1.60A | Inferred Temp: 256.6 °C | PWM Output: 255/255
+Step: 042 | RMS Current: 1.57A | Inferred Temp: 258.5 °C | PWM Output: 255/255
+Step: 043 | RMS Current: 1.54A | Inferred Temp: 260.4 °C | PWM Output: 255/255
+Step: 044 | RMS Current: 1.50A | Inferred Temp: 262.3 °C | PWM Output: 255/255
+Step: 045 | RMS Current: 1.47A | Inferred Temp: 264.2 °C | PWM Output: 255/255
+Step: 046 | RMS Current: 1.44A | Inferred Temp: 266.1 °C | PWM Output: 255/255
+Step: 047 | RMS Current: 1.38A | Inferred Temp: 269.8 °C | PWM Output: 255/255
+Step: 048 | RMS Current: 1.31A | Inferred Temp: 273.8 °C | PWM Output: 255/255
+Step: 049 | RMS Current: 1.24A | Inferred Temp: 277.6 °C | PWM Output: 255/255
+Step: 050 | RMS Current: 1.17A | Inferred Temp: 281.8 °C | PWM Output: 255/255
+Step: 051 | RMS Current: 1.11A | Inferred Temp: 285.4 °C | PWM Output: 255/255
+Step: 052 | RMS Current: 1.05A | Inferred Temp: 289.0 °C | PWM Output: 255/255
+Step: 053 | RMS Current: 0.99A | Inferred Temp: 292.4 °C | PWM Output: 255/255
+Step: 054 | RMS Current: 0.93A | Inferred Temp: 295.8 °C | PWM Output: 255/255
+Step: 055 | RMS Current: 0.87A | Inferred Temp: 299.4 °C | PWM Output: 255/255
+Step: 056 | RMS Current: 0.80A | Inferred Temp: 303.6 °C | PWM Output: 255/255
+Step: 057 | RMS Current: 0.69A | Inferred Temp: 309.8 °C | PWM Output: 255/255
+Step: 058 | RMS Current: 1.60A | Inferred Temp: 256.8 °C | PWM Output: 255/255
+Step: 059 | RMS Current: 1.56A | Inferred Temp: 258.8 °C | PWM Output: 255/255
+Step: 060 | RMS Current: 1.53A | Inferred Temp: 260.7 °C | PWM Output: 255/255
+Step: 061 | RMS Current: 1.50A | Inferred Temp: 262.6 °C | PWM Output: 255/255
+Step: 062 | RMS Current: 1.47A | Inferred Temp: 264.4 °C | PWM Output: 255/255
+Step: 063 | RMS Current: 1.43A | Inferred Temp: 266.5 °C | PWM Output: 255/255
+Step: 064 | RMS Current: 1.37A | Inferred Temp: 270.4 °C | PWM Output: 255/255
+Step: 065 | RMS Current: 1.30A | Inferred Temp: 274.3 °C | PWM Output: 255/255
+Step: 066 | RMS Current: 1.22A | Inferred Temp: 278.7 °C | PWM Output: 255/255
+Step: 067 | RMS Current: 1.16A | Inferred Temp: 282.4 °C | PWM Output: 255/255
+Step: 068 | RMS Current: 1.10A | Inferred Temp: 285.9 °C | PWM Output: 255/255
+Step: 069 | RMS Current: 1.04A | Inferred Temp: 289.5 °C | PWM Output: 255/255
+Step: 070 | RMS Current: 0.98A | Inferred Temp: 292.9 °C | PWM Output: 255/255
+Step: 071 | RMS Current: 0.92A | Inferred Temp: 296.2 °C | PWM Output: 255/255
+Step: 072 | RMS Current: 0.86A | Inferred Temp: 299.9 °C | PWM Output: 255/255
+Step: 073 | RMS Current: 0.78A | Inferred Temp: 304.3 °C | PWM Output: 255/255
+Step: 074 | RMS Current: 0.67A | Inferred Temp: 311.1 °C | PWM Output: 255/255
+Step: 075 | RMS Current: 1.59A | Inferred Temp: 257.1 °C | PWM Output: 255/255
+Step: 076 | RMS Current: 1.56A | Inferred Temp: 259.1 °C | PWM Output: 255/255
+Step: 077 | RMS Current: 1.53A | Inferred Temp: 261.0 °C | PWM Output: 255/255
